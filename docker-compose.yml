@@ -5,4 +5,4 @@ services:
              container_name: fs-s1-cp2-nodejs-form-blog
              image: registry.mejik.xyz/ebook/fs-s1-cp2-nodejs-form-blog
              ports:
-                     - 3021:3000
+                     - 3022:3000
