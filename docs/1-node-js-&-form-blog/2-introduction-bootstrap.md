@@ -50,7 +50,7 @@ Penggunaan bootrstrap yang diinstalasi secara offline maupun online tidak ada pe
 - Akses halaman template bootstrap  [getbootstrap.com/docs/5.1/components/modal/](https://getbootstrap.com/docs/5.1/components/modal/)
 - copy salah satu template yang disediakan
 
-<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2/tree/day1-0.introduction-bootstrap">
+<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2-golang/blob/day1-1-introduction-bootstrap/index.html">
 Contoh code
 </a>
 
