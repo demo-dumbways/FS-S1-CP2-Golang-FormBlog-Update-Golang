@@ -9,7 +9,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 Sama halnya dengan pembuatan navbar, untuk membuat form blog kita juga akan memanfaatkan template dan class - class yang disediakan oleh bootstrap.
 
 <br/>
-<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2/tree/day1-3.form">
+<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2-golang/blob/day1-3-form-blog/form-blog.html">
 Contoh code
 </a>
 <br/>
@@ -78,7 +78,7 @@ Pada bagian form pun kita mengkombinsikan bootstrap dengan css external yang kit
 - button
 
 Akses hasil refactor code menggunakan bootstrap untuk styling pada file index, contact, blog, dan blog detail pada button berikut
-   <a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2/tree/day1-2.navbar">
+   <a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2-golang/tree/day1-4-full-code">
    Full code
    </a>
 

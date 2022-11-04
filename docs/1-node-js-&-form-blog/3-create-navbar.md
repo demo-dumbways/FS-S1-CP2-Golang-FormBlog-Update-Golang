@@ -12,13 +12,6 @@ Hal pertama yang kita lakukan adalah memuat bootstrap.css menggunakan `Content D
 
 <br />
 
-<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2/tree/day1-1.cdn">
-Contoh code
-</a>
-
-<br />
-<br />
-
 ```html {5-6} title="form-blog.html"
 <!DOCTYPE html>
 <head>
@@ -34,7 +27,7 @@ Contoh code
 Setelah kita memuat bootstrap.css menggunakan CDN, kita tambahkan template navbar yang telah disediakan oleh bootstrap dan kita customize menu - menu yang akan digunakan nantinya sesuai study case.
 
 <br/>
-<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2/tree/day1-2.navbar">
+<a class="btn-example-code" href="https://github.com/demo-dumbways/ebook-code-result-chapter-2-golang/blob/day1-2-creating-navbar/form-blog.html">
 Contoh code
 </a>
 <br/>
